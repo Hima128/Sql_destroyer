@@ -55,10 +55,6 @@ import random
 - Proxy support for bypassing stricter firewalls.
 - Enhanced error handling and logging.
 - Integration with additional security testing tools for comprehensive testing.
-
-### License
-This tool is provided under the MIT License. See LICENSE.txt for more details.
-
 ---
 
 
