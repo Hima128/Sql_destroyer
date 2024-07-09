@@ -50,11 +50,6 @@ import random
 ### Notes
 - Ensure proper permissions and legal authorization before scanning websites you do not own.
 - Results from SQLMap should be interpreted carefully and used responsibly.
-
-### Future Enhancements
-- Proxy support for bypassing stricter firewalls.
-- Enhanced error handling and logging.
-- Integration with additional security testing tools for comprehensive testing.
 ---
 
 
