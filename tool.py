@@ -6,7 +6,7 @@ import subprocess
 import random
 import time
 
-# قائمة البروكسيات
+#proxies list
 proxies = []
 
 def fetch_page(url):
